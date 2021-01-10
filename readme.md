@@ -1,13 +1,14 @@
 ### Hi there, I'm Khushil Khatri <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🔭 In relationship with JavaScript. 😉
-- 🌱 Learning everything 🤣
-- 👯 Known as "Problem Solver" 🤝
+- 🌱 Learning everything. 🤣
+- 😎 Known as "Problem Solver"❓
 - 💬 Ask me anything [here](https://github.com/khushilkhatri/khushilkhatri/issues) related to <b>Javascript(React & Node), AWS, IoT related solutions.</b>
-- 📫 How to reach me: Ping me on [Twitter] or say 👋  on Email at [Khushil Khatri](mailto:khushilkhatri@gmail.com)
+- 📫 How to reach me: Say 👋 Hey on Email at [Khushil Khatri](mailto:khushilkhatri@gmail.com)
 
 ### About Me
-I like to solve a problem, so people who know me call me "Problem Solver". I'm highly intrigued by having a strong interest in projects that require both conceptual and analytical thinking. In my recent work, our team has provided an IoT solution to industries. Currently, working on SaaS product that have a vast user base. I like to learn new things and I never consider coding as my work because I really enjoy it a lot.
+I like to solve a problem❓, so people who know me call me "Problem Solver"😎. I'm highly intrigued by having a strong interest in projects that require both conceptual 🧠 and analytical thinking 📈. In my recent work, our team has provided an IoT solution to industries 🏭. Currently, working on SaaS product that have a vast user base 👥. I like to learn new things and I never consider coding as my work 💻 because I really enjoy it a lot 🥳.
+<br />
 <br />
 I have 3+ year of experience with javascript based frameworks like Node JS, React JS, Express JS etc. I have worked in IoT and Healthcare related projects/products and worked on SaaS products too. Have a good grip on DS, Algorithm, AWS services, gitlab CI/CD. 
 
