@@ -28,11 +28,6 @@ I have 3+ year of experience with javascript based frameworks like Node JS, Reac
 
 ### Connect with me :smiley:
 
-[<img align="left" alt="Khushil Khatri | Linkdin" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Flinkedin.svg?alt=media&token=0e662ab8-db11-475a-9c43-18d89bcdfde0" />][linkedin]
-[<img align="left" alt="Khushil Khatri | Twitter" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Ftwitter.svg?alt=media&token=0e4ffc45-d873-47ee-b08c-9b98b4fe66cf" />][Twitter]
-[<img align="left" alt="Khushil Khatri | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="Khushil Khatri | website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
 [linkedin]: https://linkedin.com/in/khushilkhatri
 [Twitter]: https://twitter.com/khushilkhatri
 [github]: https://github.com/khushilkhatri
