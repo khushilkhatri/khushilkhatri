@@ -2,11 +2,14 @@
 
 - 🔭 In relationship with JavaScript. 😉
 - 🌱 Learning everything 🤣
-- 👯 I’m looking to collaborate on open source projects 🤝
+- 👯 Known as "Problem Solver" 🤝
 - 💬 Ask me anything [here](https://github.com/khushilkhatri/khushilkhatri/issues) related to <b>Javascript(React & Node), AWS, IoT related solutions.</b>
 - 📫 How to reach me: Ping me on [Twitter] or say 👋  on Email at [Khushil Khatri](mailto:khushilkhatri@gmail.com)
 
-I have 3+ year of experience with javascript based frameworks like Node JS, React JS, Express JS etc. I have worked in IoT and Healthcare related projects/products and worked on SaaS products too. Have a good grip on DS, Algorithm, AWS services, gitlab CI/CD. I'm highly intrigued by having a strong interest in projects that require both conceptual and analytical thinking. I like to solve a problem, so people who know me call me "Problem Solver”.
+### About Me
+I like to solve a problem, so people who know me call me "Problem Solver". I'm highly intrigued by having a strong interest in projects that require both conceptual and analytical thinking. In my recent work, our team has provided an IoT solution to industries. Currently, working on SaaS product that have a vast user base. I like to learn new things and I never consider coding as my work because I really enjoy it a lot.
+<br />
+I have 3+ year of experience with javascript based frameworks like Node JS, React JS, Express JS etc. I have worked in IoT and Healthcare related projects/products and worked on SaaS products too. Have a good grip on DS, Algorithm, AWS services, gitlab CI/CD. 
 
 ### 📊 GitHub Stats:
 ![Khushil Khatri's github stats](https://github-readme-stats.vercel.app/api?username=khushilkhatri&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
