@@ -12,9 +12,6 @@ I like to solve a problem❓, so people who know me call me "Problem Solver"😎
 <br />
 I have 3+ year of experience with javascript based frameworks like Node JS, React JS, Express JS etc. I have worked in IoT and Healthcare related projects/products and worked on SaaS products too. Have a good grip on DS, Algorithm, AWS services, gitlab CI/CD. 
 
-### 📊 GitHub Stats:
-![Khushil Khatri's github stats](https://github-readme-stats.vercel.app/api?username=khushilkhatri&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&hide=contribs,issues,stars)
-
 ### Connect with me :smiley:
 
 [<img align="left" alt="Sankalp Ranade | Linkdin" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Flinkedin.svg?alt=media&token=0e662ab8-db11-475a-9c43-18d89bcdfde0" />][linkedin]
