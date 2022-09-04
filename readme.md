@@ -1,5 +1,6 @@
 ### Hi there, I'm Khushil Khatri <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+- 🏡 Working as an Engineering Manager at Fundamento. 💻
 - 🔭 In relationship with JavaScript. 😉
 - 🌱 Learning everything. 🤣
 - 😎 Known as "Problem Solver"❓
@@ -10,7 +11,7 @@
 I like to solve a problem❓, so people who know me call me "Problem Solver"😎. I'm highly intrigued by having a strong interest in projects that require both conceptual 🧠 and analytical thinking 📈. In my recent work, our team has provided an IoT solution to industries 🏭. Currently, working on SaaS product that have a vast user base 👥. I like to learn new things and I never consider coding as my work 💻 because I really enjoy it a lot 🥳.
 <br />
 <br />
-I have 3+ year of experience with javascript based frameworks like Node JS, React JS, Express JS etc. I have worked in IoT and Healthcare related projects/products and worked on SaaS products too. Have a good grip on DS, Algorithm, AWS services, gitlab CI/CD. 
+I have 5+ year of experience with javascript based frameworks like Node JS, React JS, Express JS etc. I have worked in IoT and Healthcare related projects/products and worked on SaaS products too. Have a good grip on DS, Algorithm, AWS services, gitlab CI/CD. 
 
 ### Connect with me :smiley:
 
